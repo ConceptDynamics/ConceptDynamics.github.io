@@ -1,0 +1,20 @@
+title: ConceptDynamics
+description: Personal website and portfolio
+author: ConceptDynamics
+url: https://ConceptDynamics.github.io
+baseurl: ""
+
+# Jekyll settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Social links (optional)
+social_links:
+  github: ConceptDynamics
+
+# Exclude files from build
+exclude:
+  - .gitignore
+  - README.md
